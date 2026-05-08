@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_authenticator import Authenticate
+import streamlit_authenticator as stauth
 import pandas as pd
 
 
