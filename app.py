@@ -38,7 +38,7 @@ for _, row in df.iterrows():
         "role": row["role"]
     }
 
-authenticator = Authenticate(
+authenticator = stauth.Authenticate(
     lesDonneesDesComptes,  # Les données des comptes
     "cookie name",         # Le nom du cookie, un str quelconque
     "cookie key",          # La clé du cookie, un str quelconque
