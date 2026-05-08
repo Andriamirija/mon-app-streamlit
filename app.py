@@ -19,7 +19,7 @@ lesDonneesDesComptes = {
         },
         'root': {
             'name': 'RIJA',
-            'password': '0000',
+            'password': '1003',
             'email': 'mirijavali@yahoo.fr',
             'failed_login_attempts': 0,  # Sera géré automatiquement
             'logged_in': False,          # Sera géré automatiquement
