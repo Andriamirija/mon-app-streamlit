@@ -1,0 +1,3 @@
+name;password;email;failled_login_attempts;logged_in;role
+utilisateur;utilisateurMDP;utilisateur@gmail.com;0;False;utilisateur
+RIJA;10031982;mirijavali@yahoo.fr;0;False;administrateur
